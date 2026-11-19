@@ -1,0 +1,1 @@
+- Zaynab is building "zizo," an AI assistant project that she is working on, with planned features like persistent memory and a model-agnostic layer.
